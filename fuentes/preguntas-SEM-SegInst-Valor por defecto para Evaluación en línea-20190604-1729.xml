@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$module$/Valor por defecto para Evaluación en línea/Módulo 1</text>
+
+    </category>
+  </question>
+
+<!-- question: 634  -->
+  <question type="matching">
+    <name>
+      <text>Mod1Preg5</text>
+    </name>
+    <questiontext format="html">
+      <text>Empareje cada concepto de administración de riesgos con su definición correspondiente.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text>Actividades tendientes a controlar hechos o incidentes mediante medios técnicos, humanos y protocolos y/o procedimientos de seguridad.</text>
+      <answer>
+        <text>Evitar riesgos</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Actividades tendientes a minimizar o eliminar hechos o incidentes mediante medios técnicos, humanos y protocolos y/o procedimientos de seguridad.</text>
+      <answer>
+        <text>Reducir los riesgos</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Responsabilizarse o hacer frente a hechos existentes o potenciales.</text>
+      <answer>
+        <text>Asumir los riesgos</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Pasar a un tercero la responsabilidad de un hecho, por ejemplo tomar seguros o pólizas de garantía.</text>
+      <answer>
+        <text>Transferir los riesgos</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$module$/Valor por defecto para Evaluación en línea/Módulo 2</text>
+
+    </category>
+  </question>
+
+<!-- question: 641  -->
+  <question type="matching">
+    <name>
+      <text>Mod2Preg2</text>
+    </name>
+    <questiontext format="html">
+      <text>Ordene las fases para la planeación de la seguridad física o de instalaciones.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text>Evaluación de los riesgos y vulnerabilidades (Estudio de seguridad de instalaciones)</text>
+      <answer>
+        <text>1</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Diseño del programa de seguridad</text>
+      <answer>
+        <text>2</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Implementación</text>
+      <answer>
+        <text>3</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Mantenimiento</text>
+      <answer>
+        <text>4</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 642  -->
+  <question type="matching">
+    <name>
+      <text>Mod2Preg4</text>
+    </name>
+    <questiontext format="html">
+      <text>Empareje las opciones según los niveles de seguridad que determinan la atención a prioridades.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text>Cajas fuertes, bóvedas, áreas controladas, paredes, puertas</text>
+      <answer>
+        <text>Máximo</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Cercas, verjas, muros, carreteras, canales, carrileras</text>
+      <answer>
+        <text>Medio</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Barreras naturales, ríos, campos, rocas, lagos</text>
+      <answer>
+        <text>Mínimo</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$module$/Valor por defecto para Evaluación en línea/Módulo 3</text>
+
+    </category>
+  </question>
+
+<!-- question: 649  -->
+  <question type="matching">
+    <name>
+      <text>Mod3Preg7</text>
+    </name>
+    <questiontext format="html">
+      <text>Empareje los tipos de cerraduras con sus características principales:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text>Pueden ser abiertas por un manipulador hábil.</text>
+      <answer>
+        <text>Cerraduras de combinación convencional</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Ofrecen un alto grado de protección para material altamente clasificado e importante.</text>
+      <answer>
+        <text>Cerraduras de combinación resistentes a la manipulación</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Son apropiadas para contenedores de elementos importantes.</text>
+      <answer>
+        <text>Cerraduras de combinación con cuatro guardas o más</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 650  -->
+  <question type="matching">
+    <name>
+      <text>Mod3Preg8</text>
+    </name>
+    <questiontext format="html">
+      <text>Empareje los sistemas de iluminación con su definición.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="moodle_auto_format">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="moodle_auto_format">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text>Es el sistema de iluminación  más común. Consiste en una serie de luces fijas dispuestas para inundar un área dada continuamente durante oscuridad traslapando conos de luz. Dos métodos primarios de usar iluminación continua son proyección de luz intensa e iluminación controlada.</text>
+      <answer>
+        <text>Iluminación continua</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Tiene un esquema similar a la iluminación continua. Sin embargo, las luminarias no se encienden continuamente pero son encendidas automáticamente o manualmente cuando una actividad sospechosa es detectada o es sospechada por la fuerza de seguridad o por los sistemas de la alarma.</text>
+      <answer>
+        <text>Iluminación de reserva o exploradoras</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Es operada manualmente, los reflectores movibles pueden encenderse durante horas de oscuridad o sólo cuando es necesario. El sistema normalmente se usa para complementar la iluminación continua o de reserva.</text>
+      <answer>
+        <text>Iluminación portable</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>Es un sistema que puede reproducir cualquiera o todos los sistemas anteriores. su uso se limita a tiempos en las fallas del sistema de poder u otras emergencias que hace inoperante el sistema normal. Depende de la instalación de una  fuente de poder alterna o de generadores portátiles o baterías.</text>
+      <answer>
+        <text>Iluminación de emergencia</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$module$/Valor por defecto para Evaluación en línea/Módulo 1</text>
+
+    </category>
+  </question>
+
+<!-- question: 635  -->
+  <question type="multichoice">
+    <name>
+      <text>Mod1Preg1</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Qué se entiende por amenaza?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Cuando una organización terrorista expone, de manifiesto, la intención de atentar contra la seguridad de una empresa.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Cualquier hecho o acción, que de suceder, afectaría a la seguridad de una persona o de una organización, provocando pérdidas.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>La acumulación de circunstancias que generan un riesgo inmediato.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 636  -->
+  <question type="multichoice">
+    <name>
+      <text>Mod1Preg2</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Qué se entiende por seguridad física en el contexto de una empresa?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Es un sistema de medidas reactivas intangibles, diseñadas para proteger los recursos de la organización, evitando los riesgos que pueden atentar contra su integridad.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Es un sistema de medidas preventivas tangibles, diseñadas para proteger los recursos de la organización, mitigando y administrando los riesgos que pueden atentar contra su integridad.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Es un sistema de medidas preventivas intangibles, diseñadas para proteger los recursos de la organización, anulando los riesgos que pueden atentar contra su integridad.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 637  -->
+  <question type="multichoice">
+    <name>
+      <text>Mod1Preg4</text>
+    </name>
+    <questiontext format="html">
+      <text>De acuerdo con la norma BASC, los riesgos pueden originarse por (seleccione TODAS las respuestas válidas):</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="33.33333" format="moodle_auto_format">
+      <text>Actos intencionales de infractores: delincuentes, subversivos, terroristas.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="moodle_auto_format">
+      <text>Fuerzas físicas naturales: movimientos sísmicos a gran escala, incendios, lluvias, etc.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="moodle_auto_format">
+      <text>Negligencia y confianza: de los responsables de la prevención y la seguridad o de cada individuo.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Aquellas actividades en las cuales se expone a los riesgos, aún conociéndolos de antemano.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Sitios donde un ataque seria más factible y donde es especialmente vulnerable una instalación.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$module$/Valor por defecto para Evaluación en línea/Módulo 2</text>
+
+    </category>
+  </question>
+
+<!-- question: 643  -->
+  <question type="multichoice">
+    <name>
+      <text>Mod2Preg5</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Qué se debe tener en cuenta en la fase de implementación de la seguridad física o de instalaciones, que repercute directamente en la fase de mantenimiento? Marque la respuesta correcta.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Que los sistemas tecnológicos adoptados sean modulares, de tal manera que puedan ser actualizables sin mayores costos o susceptibles de incorporar una tecnología más avanzada, compatible con la existente</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Que los sistemas tecnológicos adoptados sean infalibles, de tal manera que garanticen la correcta aplicación de todas las variables determinadas durante la fase de implementación.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Que los sistemas tecnológicos adoptados sean de código abierto, de tal manera que puedan ser modificados por los ingenieros de la empresa y optimizados día a día.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Que los sistemas tecnológicos adoptados sean proveídos por una empresa especializada en el tema, de tal manera que sea responsabilidad de ese tercero la actualización y mejoramiento constante, según las políticas de seguridad determinadas.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$module$/Valor por defecto para Evaluación en línea/Módulo 3</text>
+
+    </category>
+  </question>
+
+<!-- question: 651  -->
+  <question type="multichoice">
+    <name>
+      <text>Mod3Preg1</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Cuáles y cuántos son los pilares de la seguridad física o de instalaciones?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Son 3: protección, control y vigilancia.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Son 4: evitar, reducir, transferir y asumir.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Son 2: barreras y sistemas de vigilancia</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Son 4: cercas, iluminación, monitoreo y vigilancia.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 652  -->
+  <question type="multichoice">
+    <name>
+      <text>Mod3Preg2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[¿A qué se le denomina <i>&quot;la primer línea de defensa de cualquier organización&quot;</i>?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>A la seguridad del perímetro</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>A la vigilancia humana</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Al sistema de control de acceso</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Al sistema tecnológico de vigilancia y control</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$module$/Valor por defecto para Evaluación en línea/Módulo 2</text>
+
+    </category>
+  </question>
+
+<!-- question: 644  -->
+  <question type="multichoice">
+    <name>
+      <text>Mod3Preg3</text>
+    </name>
+    <questiontext format="html">
+      <text>Seleccione los objetivos que debe cumplir la encuesta o diagnóstico de necesidades durante la fase inicial del proceso de seguridad física o de instalaciones (seleccione TODAS las respuestas correctas).</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="33.33333" format="moodle_auto_format">
+      <text>Evaluar la seguridad existente</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="moodle_auto_format">
+      <text>Identificar deficiencias</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="moodle_auto_format">
+      <text>Definir las medidas requeridas de protección total</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Definir el procedimiento de implementación del plan general de seguridad</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Diseñar el programa de administración de riesgos de la empresa</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$module$/Valor por defecto para Evaluación en línea/Módulo 3</text>
+
+    </category>
+  </question>
+
+<!-- question: 653  -->
+  <question type="multichoice">
+    <name>
+      <text>Mod3Preg3</text>
+    </name>
+    <questiontext format="html">
+      <text>Selecciones TODAS las líneas de protección que incluye la planeación de la seguridad física o de instalaciones:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="25" format="moodle_auto_format">
+      <text>El perímetro del terreno</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="moodle_auto_format">
+      <text>El perímetro de los edificios</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="moodle_auto_format">
+      <text>El espacio interior en los edificios</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="moodle_auto_format">
+      <text>El contenido de los edificios</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>El espacio aéreo sobre las instalaciones</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>La conexión con los órganos de control y seguridad del estado</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Las bases de datos e información relevante de la empresa</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>El personal administrativo con acceso a documentación de alto valor</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 654  -->
+  <question type="multichoice">
+    <name>
+      <text>Mod3Preg5</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Cuál es la mejor definición de puertas dentro del contexto de la seguridad física o de instalaciones?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>Elementos arquitectónicos que nos sirven para encauzar el ingreso y salida de los usuarios de una instalación.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Elementos arquitectónicos que aíslan el contenido valioso de una organización.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Elementos arquitectónicos que aseguran la integridad de los elementos dentro de una instalación.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 655  -->
+  <question type="multichoice">
+    <name>
+      <text>Mod3Preg9</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Cuáles son las partes básicas que componen un sistema de alarmas automáticas? Seleccione TODAS las respuestas correctas.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="33.33333" format="moodle_auto_format">
+      <text>Sensor o dispositivo disparador</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="moodle_auto_format">
+      <text>Circuito transportador del mensaje</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="moodle_auto_format">
+      <text>Anunciador</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Detector de rostros</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Actuador nocturno</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Identificador de huellas digitales</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Cierre automático de puertas</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>Bloqueo de ingreso a las instalaciones</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$module$/Valor por defecto para Evaluación en línea/Módulo 1</text>
+
+    </category>
+  </question>
+
+<!-- question: 638  -->
+  <question type="truefalse">
+    <name>
+      <text>Mod1Preg3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[La definición &quot;<i>Posibilidad de que suceda algo que tendrá impacto en los objetivos. Se mide en término de consecuencias y posibilidad de un riesgo particular&quot;</i> corresponde al concepto de <b>Riesgo</b>.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$module$/Valor por defecto para Evaluación en línea/Módulo 2</text>
+
+    </category>
+  </question>
+
+<!-- question: 645  -->
+  <question type="truefalse">
+    <name>
+      <text>Mod2Preg1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Determine como verdadera o falsa la siguiente afirmación: <i>&quot;La seguridad de las instalaciones implica la existencia de una serie de medidas seguras, que eliminen cualquier situaciones de peligro, que garanticen completamente el desarrollo de las actividades y procesos de una empresa&quot;</i>.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$module$/Valor por defecto para Evaluación en línea/Módulo 3</text>
+
+    </category>
+  </question>
+
+<!-- question: 656  -->
+  <question type="truefalse">
+    <name>
+      <text>Mod3Preg10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Responda falso o verdadero a la siguiente afirmación <i>&quot;Un sistema de seguridad debe estar pensado para que el personal de seguridad de la empresa participe activamente, de tal manera que la organización misma deje de depender de una política seguridad y de administración del riesgo, para concentrarse en cumplir con sus objetivos operativos&quot;</i>.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 657  -->
+  <question type="truefalse">
+    <name>
+      <text>Mod3Preg4</text>
+    </name>
+    <questiontext format="html">
+      <text>Las montañas y desiertos se consideran barreras de seguridad.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 658  -->
+  <question type="truefalse">
+    <name>
+      <text>Mod3Preg6</text>
+    </name>
+    <questiontext format="html">
+      <text>Los parqueaderos de empleados, contratistas y proveedores deben estar contiguos a las áreas de producción, manejo y almacenamiento de carga para facilitar y unificar su control y vigilancia.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="plain_text">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="plain_text">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

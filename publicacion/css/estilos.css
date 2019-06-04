@@ -120,20 +120,37 @@ $color-neutro-oscuro: #61717D;
     overflow: hidden;
     padding: 0;
 }
-#Cont .graficoSimple.estatico.secuencia.con-imagen figure {
+#Cont .graficoSimple.estatico.secuencia.con-imagen a figure {
     width: 100%;
     position: relative;
     max-height: 5.5em;
 }
-#Cont .graficoSimple.estatico.secuencia.con-imagen figure img {
+#Cont .graficoSimple.estatico.secuencia.con-imagen a figure img {
     width: 100%;
     height: auto;
 }
-#Cont .graficoSimple.estatico.secuencia.con-imagen figure figcaption {
+#Cont .graficoSimple.estatico.secuencia.con-imagen a figure figcaption {
     position: absolute;
     bottom: -0.5em;
     width: 100%;
     background-color: rgba(0,0,0,0.4);
+}
+#Cont .graficoSimple.seg-inst a {
+    border-radius: 0.95em;
+}
+#Cont .graficoSimple.estatico.seg-inst .tipo1 {
+    background-color: transparent;
+    border: none;
+}
+#Cont .graficoSimple.estatico.secuencia.con-imagen.seg-inst a figure {
+    margin: 0;
+    max-height: none;
+}
+#Cont .graficoSimple.estatico.secuencia.con-imagen.seg-inst a figure figcaption {
+    bottom: 1.5em;
+}
+#Cont .graficoSimple.estatico.secuencia.con-imagen.seg-inst figure.sensei figcaption {
+    font-size: 1.4em;
 }
 #Cont .lineaTiempo div:after {
     border-top: 2px solid #924ba9;
@@ -412,6 +429,11 @@ figure.periodico-inicio h2 {
     font-size: 20px;
     margin-top: 0;
     margin-bottom: 25px;
+    color: #000 !important;
+}
+figure.periodico-final h3 {
+    font-size: 20px;
+    margin: 25px 0;
     color: #000 !important;
 }
 figure.periodico-inicio a,
