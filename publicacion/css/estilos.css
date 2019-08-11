@@ -38,6 +38,9 @@ $color-neutro-oscuro: #61717D;
 #Cont a {
     color: #e8e8e8;
 }
+#Cont a:hover {
+    color: #F27A5E;
+}
 #Cont #presaberes .radio.form-control {
     background: #323a45;
     border-color: #323a45;
@@ -158,13 +161,13 @@ $color-neutro-oscuro: #61717D;
 #Cont .lineaTiempo div:first-of-type:before,
 #Cont .lineaTiempo div:last-of-type:before,
 #Cont .seleccionable {
-    background-color: #8939AD;
+    background-color: #D9483B;
 }
 #Cont .lineaTiempo h2:after {
     background-image: url(../images/Cont_LineaTiempo.png);
 }
 #Cont blockquote {
-    border-left: 5px solid #8939AD;
+    border-left: 5px solid #D9483B;
 }
 /* Estilos generales para todos los cursos */
 blockquote div.cita {
@@ -363,6 +366,9 @@ figure.imgInline {
     -webkit-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
 }
+figure.imgInline.ajustada {
+    width: fit-content;
+}
 figure.imgInline img {
     max-width: 100%;
     height: auto !important;
@@ -371,6 +377,14 @@ figure.imgInline figcaption {
     font-size: 12px;
     text-align: right;
     margin-top: 4px;
+}
+figure.wrap-img-modal figcaption {
+    font-size: 12px;
+    text-align: right;
+    margin-top: 4px;
+}
+figure.wrap-img-modal figcaption a {
+    color: #D9483B !important;
 }
 figure.sensei .img-responsive {
     max-height: 300px;

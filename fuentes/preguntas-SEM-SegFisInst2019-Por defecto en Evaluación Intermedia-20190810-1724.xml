@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$module$/Por defecto en Evaluación Intermedia</text>
+
+    </category>
+  </question>
+
+<!-- question: 5686  -->
+  <question type="matching">
+    <name>
+      <text>EvIntermediaPREG01</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Empareje cada concepto básico con la definición correspondiente.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Respuesta correcta</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Respuesta parcialmente correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Respuesta incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>Actividades en las cuales se expone a los riesgos, aún conociéndolos de antemano.<br></p>]]></text>
+      <answer>
+        <text>Actos inseguros</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Hecho o acción, que de suceder, afectaría a la seguridad de una persona o de una organización, provocando pérdidas.</p>]]></text>
+      <answer>
+        <text>Amenaza</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Un ambiente favorable a la ocurrencia de una acción dañina.</p>]]></text>
+      <answer>
+        <text>Factor Generador de Riesgo (FGR)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Aquel que se aprovecha de la existencia de uno o varios Factores Generadores de Riesgo (FGR) para efectuar o intentar efectuar una acción dañina.</p>]]></text>
+      <answer>
+        <text>Agente Generador de Riesgo (AGR)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Debilidad que presenta un bien o una persona, para que le suceda un riesgo.<br></p>]]></text>
+      <answer>
+        <text>Vulnerabilidad</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Posibilidad de que suceda algo que tendrá impacto en los objetivos. Se mide en término de consecuencias y posibilidad de un riesgo particular.<br></p>]]></text>
+      <answer>
+        <text>Riesgo</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 5688  -->
+  <question type="matching">
+    <name>
+      <text>EvIntermediaPREG03</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Empareje cada concepto con la definición correspondiente.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Respuesta correcta</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Respuesta parcialmente correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Respuesta incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>Un obstáculo natural o estructural/artificial (hecho por el hombre) que impide el paso por un lugar.</p>]]></text>
+      <answer>
+        <text>Barreras</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Una señal de la probable ocurrencia de una acción dañina contra el 'estado de seguridad' que le son propios a una persona, proceso, valores o instalación.</p>]]></text>
+      <answer>
+        <text>Indicios</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Fuente de daño potencial o situación con potencial para causar pérdida.<br></p>]]></text>
+      <answer>
+        <text>Peligro</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Posibilidad de que ocurra un evento o resultado específico medida por la relación entre los eventos o resultados específicos y el número total de eventos o resultados posibles.<br></p>]]></text>
+      <answer>
+        <text>Probabilidad</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Sitios donde un ataque seria más factible y donde es especialmente vulnerable una instalación.</p>]]></text>
+      <answer>
+        <text>Puntos críticos</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Acción de prever las acciones de los delincuentes y manejarlas correctamente.</p>]]></text>
+      <answer>
+        <text>Seguridad preventiva</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 5690  -->
+  <question type="matching">
+    <name>
+      <text>EvIntermediaPREG05</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Empareje los conceptos con sus definiciones correspondientes, según los componentes de un programa de seguridad física.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Respuesta correcta</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Respuesta parcialmente correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Respuesta incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>Objetivos declarados de seguridad y los medios para alcanzarlos.<br></p>]]></text>
+      <answer>
+        <text>Políticas y procedimientos</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Personas para monitorear, administrar e implementar el programa.<br></p>]]></text>
+      <answer>
+        <text>Personal</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Dispositivos de control de acceso.<br></p>]]></text>
+      <answer>
+        <text>Barreras</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Detección, alarmas, comunicación y sistemas de control (hardware - software).<br></p>]]></text>
+      <answer>
+        <text>Equipos</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Reportes de incidentes pasados y <i>records</i> de acceso.<br></p>]]></text>
+      <answer>
+        <text>Registros</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 5689  -->
+  <question type="multichoice">
+    <name>
+      <text>EvIntermediaPREG04</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>En una <b>Evaluación de riesgos y vulnerabilidades</b>, aparte de la inspección física de las instalaciones también debe tener en cuenta los siguientes factores:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.1000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Respuesta correcta</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Respuesta parcialmente correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Respuesta incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Ubicación del personal de seguridad, alarmas y equipos de seguridad.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ubicación de las puertas y ventanas con vista al exterior de las instalaciones.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ubicación del sistema de sonido y transmisión acústica.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Ubicación de zonas comunes y cerraduras de todas las puertas.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5687  -->
+  <question type="truefalse">
+    <name>
+      <text>EvIntermediaPREG02</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Determine si la siguiente frase es <b>verdadera</b> o <b>falsa</b>:</p><p><br></p><div class="editor-indent" style="margin-left: 30px;"><p><i>Se entiende por&nbsp;seguridad en el contexto de una empresa al&nbsp;sistema de medidas preventivas tangibles, diseñadas para proteger los recursos de la organización, mitigando y administrando los riesgos.</i></p></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5691  -->
+  <question type="truefalse">
+    <name>
+      <text>EvIntermediaPREG06</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Determine como <b>verdadera</b> o <b>falsa</b> la siguiente afirmación:</p><p><br></p><div class="editor-indent" style="margin-left: 30px;"><p><i>El <b>Mantenimiento</b> es una etapa que debe realizarse inmediatamente después de finalizada la etapa de <b>Implementación</b>.</i></p></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

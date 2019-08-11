@@ -246,7 +246,21 @@ $(function(){
             });
         }
     });
+    var esteCurso = $.urlParam('id');
+    var rutaFinal = window.location.origin + window.location.pathname+'?id=' + esteCurso + '&section=';
+    $('.vinculo-interno').attr('href',function(){
+        if (esteCurso) {
+            return rutaFinal + $(this).attr('data-dest');
+        }
+    }).append('&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i>');
 }); // Fin de la function inicial
+$.urlParam = function(name){
+    var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    if (results == null) {
+        return null;
+    }
+    return decodeURI(results[1]) || 0;
+}
 function emparejamiento() {
     arrastrables = [];
     numArrastrables = $('.emparejamiento .arrastrable a').length;
